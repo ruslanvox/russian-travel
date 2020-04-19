@@ -2,7 +2,7 @@
 
 ### Обзор
 * Следующая ступень
-* Githun Pages
+* Github Pages
 * Дальше?
 
 **Следующая ступень**
@@ -14,7 +14,7 @@ JS и все, что с ним связано. В ней мне предстоя
 
 **Githun Pages**
 
-* [Ссылка на работу в Githun Pages](https://www.figma.com/file/MTZ7K0gUaN07iNIj8YCcLm/Russia-(mobile)-(Copy)?node-id=0%3A1)
+* [Ссылка на работу в Github Pages](https://www.figma.com/file/MTZ7K0gUaN07iNIj8YCcLm/Russia-(mobile)-(Copy)?node-id=0%3A1)
 
 **Дальше?**
 
