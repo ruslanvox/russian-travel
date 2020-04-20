@@ -1,0 +1,19 @@
+.cover__title {
+	margin: 0 auto;
+	width: 560px;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 72px;
+	line-height: 76px;
+	text-align: center;
+	color: #FFFDFD;
+	z-index: 2;
+}
+
+@media screen and (max-width:767px) {
+	.cover__title {
+		font-size: 32px;
+		width: 288px;
+		line-height: 35px;
+	}
+}
