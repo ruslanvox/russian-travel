@@ -4,8 +4,5 @@
 	text-decoration: none;
 	color: white;
 	position: absolute;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
 	z-index: 2;
 }

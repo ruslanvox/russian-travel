@@ -8,8 +8,8 @@
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/place/place.css);
-body {
+.page {
 	font-family: 'Inter', Arial, sans-serif;
 	background-color: #2a2c2f;
-	margin: 28px auto;
+	margin: 0 auto;
 }
